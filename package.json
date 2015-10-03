@@ -1,6 +1,6 @@
 {
   "name": "tree-traversal",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Node.js tree traversal library",
   "main": "tree-traversal.js",
   "scripts": {
