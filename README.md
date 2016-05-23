@@ -5,9 +5,13 @@ Provides (asynchronous) iterative tree traversal strategies (breadth first,
 depth first) for arbitrary tree structures. There are also recursive traversal
 methods, though they should not be used on large trees due to stack size limitations.
 
+[![NPM](https://nodei.co/npm/tree-traversal.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/tree-traversal/)
+
 ## Install
 
-    npm install tree-traversal
+```sh
+npm install tree-traversal
+```
 
 
 ## API
